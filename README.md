@@ -23,13 +23,7 @@ Estou sempre em busca de novos desafios e aprendizados.
 <div align="Center">
   <a href="https://github.com/MellanieKP">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MellanieKP&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-</div>
-
-  <h2 align="Center">Minhas stacks: 💻</h2>
-
-<div align="Center">
-  <a href="https://github.com/MellanieKP">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MellanieKP&layout=compact&langs_count=7&theme=material-palenight"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MellanieKP&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
   
 <h2 align="Center">📞 Contate me: </h2>
