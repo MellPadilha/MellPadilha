@@ -1,4 +1,4 @@
-<h1 align="Center">🍯 Seja bem-vindo ao meu perfil 🐝</h1>
+<h1 align="Center">Seja bem-vindo ao meu perfil!</h1>
 <div align="Center"> 
 <span>
 <img align="Left" height="120em" src="https://github.com/MellanieKP/MellanieKP/assets/64799544/0f0fd8f7-5be6-4ab8-994d-ddf2bed87741" />
